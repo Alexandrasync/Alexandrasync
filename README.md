@@ -46,13 +46,6 @@ AI assistant for competitive intelligence. Analyzes competitor content — texts
 
 ---
 
-### 🎨 [Interior Redesign AI](https://github.com/Alexandrasync/interior-redesign-ai)
-Upload a room photo and get an AI-generated redesign concept. Computer vision + generative AI applied to interior design.
-
-`Python` `OpenAI` `Image generation`
-
----
-
 ## 📫 Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/alexandra-vasilieva-9b5ab14b/) · [Email](mailto:alexandra.a.vasilieva@gmail.com)
