@@ -1,5 +1,62 @@
 # Hi, I'm Alexandra — AI Automation Specialist
 
+<details>
+<summary>🇷🇺 Читать на русском</summary>
+
+# Привет, я Александра — специалист по автоматизации на основе ИИ
+
+Я создаю ИИ-инструменты для маркетинговых и бизнес-команд: RAG-пайплайны, интеграции с LLM и Telegram-боты, которые решают реальные задачи бизнес-процессов.
+
+Опыт в бренд-менеджменте (4+ года в AkzoNobel / краски Dulux / Россия) — я понимаю бизнес-задачи, которые должны решать эти инструменты, а не только код, который их запускает.
+
+---
+
+## 🛠 Инструменты, с которыми я работаю
+
+**ИИ и LLM**
+`OpenAI API` `RAG-пайплайны` `ChromaDB` `Векторные базы данных` `Structured outputs` `Ollama`
+
+**Разработка**
+`Python` `Cursor` `Claude Code` `n8n` `Langflow` `LangChain` `Telegram Bot API` `Flask` `REST API` `FastAPI`
+
+**Бизнес и аналитика**
+`Бренд-менеджмент` `Запуск продуктов` `Маркетинг-микс`
+
+---
+
+## 📌 Избранные проекты
+
+### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
+CLI-инструмент для массовой обработки отзывов клиентов. Использует OpenAI Structured Output для извлечения намерения, темы и приоритета из текста отзыва → находит релевантный контекст через RAG (ChromaDB) → формирует обоснованный ответ клиенту → генерирует аналитические отчёты. Четыре уровня кэширования для минимизации затрат на API.
+
+[Посмотреть UI-макет](https://alexandrasync.github.io/AI-customer-review-assistant/)
+
+`Python` `OpenAI` `LangChain` `ChromaDB` `RAG` `Structured Output`
+
+---
+
+### 🏭 [RAG Pipeline for Product Documentation](https://github.com/Alexandrasync/RAG-pipleline-for-Luxium-documentation)
+ИИ-ассистент, обученный на технической документации, FAQ, глоссарии и руководствах по устранению дефектов. Помогает командам поддержки и продаж мгновенно отвечать на технические вопросы без поиска по десяткам файлов.
+
+[Посмотреть UI-макет](https://alexandrasync.github.io/RAG-pipleline-for-Luxium-documentation/)
+
+`Python` `OpenAI` `RAG` `RAGAS` `ChromaDB` `LangChain`
+
+---
+
+### 🕵️ [Competitor Monitor](https://github.com/Alexandrasync/competitor-monitor)
+ИИ-ассистент для конкурентной разведки. Анализирует контент конкурентов — тексты, изображения, сайты — без ручного исследования.
+
+`Python` `OpenAI vision model` `Selenium`
+
+---
+
+## 📫 Давайте свяжемся
+
+[LinkedIn](https://www.linkedin.com/in/alexandra-vasilieva-9b5ab14b/) · [Email](mailto:alexandra.a.vasilieva@gmail.com)
+
+</details>
+
 I build AI-powered tools for marketing and business teams: RAG pipelines, LLM integrations, and Telegram bots that solve real workflow problems.
 
 Background in brand management (4+ years at AkzoNobel / Dulux paints / Russia) — I understand the business pain points these tools need to resolve, not just the code that runs them.
