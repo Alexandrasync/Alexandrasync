@@ -35,7 +35,7 @@ AI assistant trained on product documentation, FAQ, glossary, and defect trouble
 
 [Check UI Mockup](https://alexandrasync.github.io/RAG-pipleline-for-Luxium-documentation/)
 
-`Python` `OpenAI` `RAG` `ChromaDB` `LangChain`
+`Python` `OpenAI` `RAG` `RAGAS` `ChromaDB` `LangChain`
 
 ---
 
