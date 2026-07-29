@@ -24,9 +24,9 @@ Background in brand management (4+ years at AkzoNobel / Dulux paints / Russia) �
 ### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
 CLI tool for processing customer reviews at scale. Uses OpenAI Structured Output to extract intent, theme and priority from free-text reviews → retrieves relevant context via RAG (ChromaDB) → drafts a grounded customer response → generates analytics reports. Four caching layers to minimise API costs.
 
-`Python` `OpenAI` `LangChain` `ChromaDB` `RAG` `Structured Output`
-
 [Open UI Mockup](https://alexandrasync.github.io/AI-customer-review-assistant/)
+
+`Python` `OpenAI` `LangChain` `ChromaDB` `RAG` `Structured Output`
 
 ---
 
