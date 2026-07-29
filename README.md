@@ -40,9 +40,9 @@ AI assistant trained on product documentation, FAQ, glossary, and defect trouble
 ---
 
 ### 🕵️ [Competitor Monitor](https://github.com/Alexandrasync/competitor-monitor)
-AI assistant for competitive intelligence. Ingests competitor content into a vector database and answers questions about positioning, messaging, and product differences — without manual research.
+AI assistant for competitive intelligence. Analyzes competitor content — texts, images, websites — without manual research.
 
-`Python` `OpenAI` `RAG` `Vector DB`
+`Python` `OpenAI vision model` `Selenium`
 
 ---
 
