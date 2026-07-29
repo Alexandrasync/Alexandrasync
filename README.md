@@ -3,9 +3,9 @@
 <details>
 <summary>🇷🇺 Читать на русском</summary>
 
-# Привет, я Александра — специалист по автоматизации на основе ИИ
+# Привет, я Александра — специалист по ИИ-автоматизации
 
-Я создаю ИИ-инструменты для маркетинговых и бизнес-команд: RAG-пайплайны, интеграции с LLM и Telegram-боты, которые решают реальные задачи бизнес-процессов.
+Я создаю ИИ-ассистентов для маркетинговых и бизнес-команд: RAG-пайплайн, интеграции с LLM и Telegram-боты, которые решают реальные задачи бизнес-процессов.
 
 Опыт в бренд-менеджменте (4+ года в AkzoNobel / краски Dulux / Россия) — я понимаю бизнес-задачи, которые должны решать эти инструменты, а не только код, который их запускает.
 
@@ -14,7 +14,7 @@
 ## 🛠 Инструменты, с которыми я работаю
 
 **ИИ и LLM**
-`OpenAI API` `RAG-пайплайны` `ChromaDB` `Векторные базы данных` `Structured outputs` `Ollama`
+`OpenAI API` `RAG-пайплайн` `ChromaDB` `Векторные базы данных` `Structured outputs` `Ollama`
 
 **Разработка**
 `Python` `Cursor` `Claude Code` `n8n` `Langflow` `LangChain` `Telegram Bot API` `Flask` `REST API` `FastAPI`
@@ -27,7 +27,7 @@
 ## 📌 Избранные проекты
 
 ### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
-CLI-инструмент для массовой обработки отзывов клиентов. Использует OpenAI Structured Output для извлечения намерения, темы и приоритета из текста отзыва → находит релевантный контекст через RAG (ChromaDB) → формирует обоснованный ответ клиенту → генерирует аналитические отчёты. Четыре уровня кэширования для минимизации затрат на API.
+ИИ-ассистент для массовой обработки отзывов клиентов. Использует OpenAI Structured Output для извлечения намерения, темы и приоритета из текста отзыва → находит релевантный контекст через RAG (ChromaDB) → формирует обоснованный ответ клиенту → генерирует аналитические отчёты. Четыре уровня кэширования для минимизации затрат на API.
 
 [Посмотреть UI-макет](https://alexandrasync.github.io/AI-customer-review-assistant/)
 
@@ -51,7 +51,7 @@ CLI-инструмент для массовой обработки отзыво
 
 ---
 
-## 📫 Давайте свяжемся
+## 📫 Контакты
 
 [LinkedIn](https://www.linkedin.com/in/alexandra-vasilieva-9b5ab14b/) · [Email](mailto:alexandra.a.vasilieva@gmail.com)
 
@@ -79,7 +79,7 @@ Background in brand management (4+ years at AkzoNobel / Dulux paints / Russia) �
 ## 📌 Featured Projects
 
 ### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
-CLI tool for processing customer reviews at scale. Uses OpenAI Structured Output to extract intent, theme and priority from free-text reviews → retrieves relevant context via RAG (ChromaDB) → drafts a grounded customer response → generates analytics reports. Four caching layers to minimise API costs.
+AI-assistant for processing customer reviews at scale. Uses OpenAI Structured Output to extract intent, theme and priority from free-text reviews → retrieves relevant context via RAG (ChromaDB) → drafts a grounded customer response → generates analytics reports. Four caching layers to minimise API costs.
 
 [Check UI Mockup](https://alexandrasync.github.io/AI-customer-review-assistant/)
 
