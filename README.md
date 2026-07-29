@@ -26,7 +26,8 @@ CLI tool for processing customer reviews at scale. Uses OpenAI Structured Output
 
 `Python` `OpenAI` `LangChain` `ChromaDB` `RAG` `Structured Output`
 
-[UI Mockup](https://alexandrasync.github.io/AI-customer-review-assistant/)
+[Open UI Mockup](https://alexandrasync.github.io/AI-customer-review-assistant/)
+
 ---
 
 ### 🏭 [RAG Pipeline for Product Documentation](https://github.com/Alexandrasync/RAG-pipleline-for-Luxium-documentation)
