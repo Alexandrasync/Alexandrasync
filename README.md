@@ -55,6 +55,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/alexandra-vasilieva-9b5ab14b/) · [Email](mailto:alexandra.a.vasilieva@gmail.com)
 
+---
 </details>
 
 I build AI-powered tools for marketing and business teams: RAG pipelines, LLM integrations, and Telegram bots that solve real workflow problems.
