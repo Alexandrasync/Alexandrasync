@@ -24,7 +24,7 @@ Background in brand management (4+ years at AkzoNobel / Dulux paints / Russia) �
 ### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
 CLI tool for processing customer reviews at scale. Uses OpenAI Structured Output to extract intent, theme and priority from free-text reviews → retrieves relevant context via RAG (ChromaDB) → drafts a grounded customer response → generates analytics reports. Four caching layers to minimise API costs.
 
-[See UI Mockup](https://alexandrasync.github.io/AI-customer-review-assistant/)
+[Check UI Mockup](https://alexandrasync.github.io/AI-customer-review-assistant/)
 
 `Python` `OpenAI` `LangChain` `ChromaDB` `RAG` `Structured Output`
 
@@ -33,7 +33,7 @@ CLI tool for processing customer reviews at scale. Uses OpenAI Structured Output
 ### 🏭 [RAG Pipeline for Product Documentation](https://github.com/Alexandrasync/RAG-pipleline-for-Luxium-documentation)
 AI assistant trained on product documentation, FAQ, glossary, and defect troubleshooting guides. Helps support and sales teams answer technical questions instantly without searching through multiple files.
 
-[See UI Mockup](https://alexandrasync.github.io/RAG-pipleline-for-Luxium-documentation/)
+[Check UI Mockup](https://alexandrasync.github.io/RAG-pipleline-for-Luxium-documentation/)
 
 `Python` `OpenAI` `RAG` `ChromaDB` `LangChain`
 
