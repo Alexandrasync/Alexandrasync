@@ -97,10 +97,10 @@ AI assistant trained on product documentation, FAQ, glossary, and defect trouble
 
 ---
 
-### 🕵️ [Competitor Monitor](https://github.com/Alexandrasync/competitor-monitor)
-AI assistant for competitive intelligence. Analyzes competitor content — texts, images, websites — without manual research.
+### 🕵️ [B2B List Enrichment](https://github.com/Alexandrasync/n8n_B2B_list_enrichment/blob/main/README.ru.md)
+A set of n8n workflows for cold B2B outreach prep: filtering companies by relevance and generating personalized email fragments.
 
-`Python` `OpenAI vision model` `Selenium`
+`n8n` `Ollama API` `GigaChat API` `Google Sheets`
 
 ---
 
