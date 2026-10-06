@@ -44,10 +44,10 @@
 
 ---
 
-### 🕵️ [Competitor Monitor](https://github.com/Alexandrasync/competitor-monitor)
-ИИ-ассистент для конкурентной разведки. Анализирует контент конкурентов — тексты, изображения, сайты — без ручного исследования.
+### 🕵️ [Обогащение базы для B2B рассылки]([https://github.com/Alexandrasync/competitor-monitor](https://github.com/Alexandrasync/n8n_B2B_list_enrichment))
+Сценарии n8n для подготовки холодной B2B-рассылки: фильтрация компаний по релевантности и генерация персонализированных фрагментов писем..
 
-`Python` `OpenAI vision model` `Selenium`
+`n8n` `Ollama API` `GigaChat API` `Google Sheets`
 
 ---
 
