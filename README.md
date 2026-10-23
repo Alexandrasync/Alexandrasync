@@ -26,6 +26,13 @@
 
 ## 📌 Избранные проекты
 
+### 📊 [Competitor Promo Analysis](https://github.com/Alexandrasync/competitor_promo_analysis_n8n)
+Еженедельный агент, который следит за страницами акций конкурентов, превращает их в структурированную базу и присылает на почту готовый отчёт по конкурентной разведке.
+
+`n8n` `Firecrawl API` `Jina AI API` `OpenAI API` `Ollama API` `Google Sheets and Gmail API`
+
+---
+
 ### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
 ИИ-ассистент для массовой обработки отзывов клиентов. Использует OpenAI Structured Output для извлечения намерения, темы и приоритета из текста отзыва → находит релевантный контекст через RAG (ChromaDB) → формирует обоснованный ответ клиенту → генерирует аналитические отчёты. Четыре уровня кэширования для минимизации затрат на API.
 
@@ -78,6 +85,13 @@ Background in brand management (4+ years at AkzoNobel / Dulux paints / Russia) �
 ---
 
 ## 📌 Featured Projects
+
+### 📊 [Competitor Promo Analysis](https://github.com/Alexandrasync/competitor_promo_analysis_n8n)
+A weekly agent that watches the promotion pages of competitors, turns them into a structured database, and emails a ready-to-read competitive intelligence report.
+
+`n8n` `Firecrawl API` `Jina AI API` `OpenAI API` `Ollama API` `Google Sheets and Gmail API`
+
+---
 
 ### 🔍 [AI Customer Review Assistant](https://github.com/Alexandrasync/AI-customer-review-assistant)
 AI-assistant for processing customer reviews at scale. Uses OpenAI Structured Output to extract intent, theme and priority from free-text reviews → retrieves relevant context via RAG (ChromaDB) → drafts a grounded customer response → generates analytics reports. Four caching layers to minimise API costs.
